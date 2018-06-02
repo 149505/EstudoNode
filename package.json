@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/149505/EstudoNode/issues"
   },
-  "homepage": "https://github.com/149505/EstudoNode#readme"
+  "homepage": "https://github.com/149505/EstudoNode#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
